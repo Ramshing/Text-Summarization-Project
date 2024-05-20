@@ -1,0 +1,23 @@
+pandas
+matplotlib
+numpy
+nltk
+notebook
+torch
+transformers
+transformers[sentencepiece]
+datasets
+sacrebleu
+rouge_score
+py7zr
+tqdm
+PyYAML
+boto3
+mypy-boto3-s3
+python-box==7.1.1
+ensure==1.0.2
+fastapi==0.78.0
+uvicorn==0.18.3
+jinja2==2.10.1
+ruamel-yaml
+-e .
